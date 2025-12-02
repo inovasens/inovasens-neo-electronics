@@ -1196,15 +1196,15 @@
 			(uuid "bf21c5e1-3110-4657-8983-1a88060ccadd")
 		)
 		(embedded_fonts no)
-		(model "F51L-1A7H1-11006.stp"
+		(model "/Users/admin/Documents/KiCad/3dmodels/Amphenol_F51L-1A7H1-11006.stp"
 			(offset
-				(xyz 0.6000000148 -2.969999984 0.04999999999)
+				(xyz 0.6 -3 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -9128,15 +9128,15 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-WROOM-32D.step"
+		(model "/Users/admin/Documents/KiCad/3dmodels/Espressif_ESP32-WROOM-32D.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 3 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -9812,15 +9812,15 @@
 			(uuid "8059f153-c907-4c8f-92e2-270c57ce891d")
 		)
 		(embedded_fonts no)
-		(model "S8201-46R.stp"
+		(model "/Users/admin/Documents/KiCad/3dmodels/Harwin_S8201-46R.stp"
 			(offset
-				(xyz 0 -2.749999959 3.2)
+				(xyz 0 0 3.2)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
