@@ -4562,15 +4562,15 @@
 			(uuid "60262f51-beac-4f9d-91cb-c50dd619a551")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x07_P2.54mm_Vertical.step"
+		(model "/Users/admin/Documents/KiCad/3dmodels/AND_SIM7600.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.73 -7.62 -5.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -0 -180)
 			)
 		)
 	)
