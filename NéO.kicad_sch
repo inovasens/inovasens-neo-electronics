@@ -7978,7 +7978,7 @@
 				(hide yes)
 			)
 		)
-		(property "SKU" "3764069"
+		(property "SKU" "4740617"
 			(at 173.99 109.22 0)
 			(effects
 				(font
@@ -8109,7 +8109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "MCP6006T-E/OT"
+		(property "Value" "AD8591ARTZ-REEL7"
 			(at 327.66 109.2514 0)
 			(effects
 				(font
@@ -8154,7 +8154,7 @@
 				(hide yes)
 			)
 		)
-		(property "SKU" "3818589"
+		(property "SKU" "4019865"
 			(at 317.5 113.03 0)
 			(effects
 				(font
@@ -8472,7 +8472,7 @@
 				(hide yes)
 			)
 		)
-		(property "SKU" "3764069"
+		(property "SKU" "4740617"
 			(at 80.01 113.03 0)
 			(effects
 				(font
@@ -9249,7 +9249,7 @@
 				(hide yes)
 			)
 		)
-		(property "SKU" "3764069"
+		(property "SKU" "4740617"
 			(at 218.44 53.34 0)
 			(effects
 				(font
@@ -10532,7 +10532,7 @@
 				(hide yes)
 			)
 		)
-		(property "SKU" "3764069"
+		(property "SKU" "4740617"
 			(at 248.92 53.34 0)
 			(effects
 				(font
@@ -13940,7 +13940,7 @@
 				(hide yes)
 			)
 		)
-		(property "SKU" "3764069"
+		(property "SKU" "4740617"
 			(at 309.88 99.06 0)
 			(effects
 				(font
